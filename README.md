@@ -28,7 +28,7 @@ Visa Navigator is a user-friendly web application designed to help individuals e
 
 ## Live website link
 
-https://visa-navigator-portal.netlify.app/myVisaApplication
+https://visa-navigator-portal.netlify.app/
 
 ## Private Github client Link
 
